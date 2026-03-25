@@ -1,5 +1,0 @@
-{
-  "name": "魔法手心：流星雨 (Magic Palm: Meteor Shower)",
-  "description": "一个基于 MediaPipe 手势识别的交互项目。当识别到手掌张开时，会从手心散发出魔法流星效果。",
-  "requestFramePermissions": ["camera"]
-}
